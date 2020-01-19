@@ -13,4 +13,6 @@ Therefore I started my research on how to be a part of STEM and found the follow
 
 Further to these courses I am also planning to apply for [Masters of Computer and Information Technology]( https://www.coursera.org/degrees/mcit-penn) offered by University of Pennsylvania. It is an online degree available on Coursera 
 
-If anyone has any better ideas, they are most welcome. Also let me know your thoughts on the above.
+If anyone has any better ideas, they are most welcome. Please add them under issues tab or raise a PR.
+
+Also let me know your thoughts on the above.
